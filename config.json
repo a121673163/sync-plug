@@ -6,12 +6,16 @@
         }
     },
     "images": {
-          "quay.io/prometheus/prometheus": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/prometheus",        
-          "quay.io/prometheus/node-exporter": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/node-exporter",
-          "quay.io/prometheus-operator/prometheus-config-reloader": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/prometheus-config-reloader",
-          "quay.io/prometheus-operator/prometheus-operator": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/prometheus-operator",
-          "quay.io/prometheus/alertmanager": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/alertmanager",
-          "quay.io/prometheus/pushgateway": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/pushgateway",
-          "quay.io/prometheus/blackbox-exporter": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/blackbox-exporter"
+        "registry.hub.docker.com/rook/ceph": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/rook-ceph",
+        "k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/nfs-subdir-external-provisioner",
+        "registry.hub.docker.com/rook/ceph": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/rook-ceph",
+        "quay.io/ceph/ceph": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/ceph",
+        "quay.io/cephcsi/cephcsi": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/cephcsi",
+        "k8s.gcr.io/sig-storage/csi-node-driver-registrar": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/csi-node-driver-registrar",
+        "k8s.gcr.io/sig-storage/csi-provisioner": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/csi-provisioner",
+        "k8s.gcr.io/sig-storage/csi-resizer": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/csi-resizer",
+        "k8s.gcr.io/sig-storage/csi-snapshotter": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/csi-snapshotter",
+        "k8s.gcr.io/sig-storage/csi-attacher": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/csi-attacher",
+        "k8s.gcr.io/sig-storage/sig-storage/nfsplugin": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/sig-storage/nfsplugin"
     }
 }
