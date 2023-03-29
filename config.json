@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "k8s.gcr.io/sig-storage/sig-storage/nfsplugin": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/nfsplugin"
+        "k8s.gcr.io/sig-storage/nfsplugin": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/nfsplugin"
     }
 }
