@@ -6,6 +6,12 @@
         }
     },
     "images": {
-        "k8s.gcr.io/sig-storage/nfsplugin": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/nfsplugin"
+        "quay.io/prometheus/prometheus": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/prometheus",        
+        "quay.io/prometheus/node-exporter": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/node-exporter",
+        "quay.io/prometheus-operator/prometheus-config-reloader": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/prometheus-config-reloader",
+        "quay.io/prometheus-operator/prometheus-operator": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/prometheus-operator",
+        "quay.io/prometheus/alertmanager": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/alertmanager",
+        "quay.io/prometheus/pushgateway": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/pushgateway",
+        "quay.io/prometheus/blackbox-exporter": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/blackbox-exporter"
     }
 }
